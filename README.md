@@ -1,2 +1,1 @@
-# Receptury-Kasi
-Prosta strona z przepisami
+Testy nowych motywow
